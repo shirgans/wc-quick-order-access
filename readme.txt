@@ -6,7 +6,7 @@ Tested up to: 6.0
 Stable tag: 1.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Plugin URI: https://github.com/shirgans/wc-quick-order-edit/
+Plugin URI: https://github.com/shirgans/wc-quick-order-access/
 
 WC Quick Order Access is a simple widget for the WordPress admin dashboard, with an input field that gets a numeric value, and a button with "Go". It redirects to the order, subscription, post or page edit page in WooCommerce and WordPress in general.
 
