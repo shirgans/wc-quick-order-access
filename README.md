@@ -21,8 +21,8 @@ A simple plugin for WordPress that adds a widget to the top admin bar for quick 
 
 ## Requirements
 
- - WordPress 4.0 or higher
- - WooCommerce 2.2 or higher (if you are using subscriptions)
+ - WordPress 5.6 or higher
+ - WooCommerce 5.0 or higher
 
 ## Support
 
