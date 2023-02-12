@@ -1,4 +1,4 @@
-=== Quick Order/Subscription Edit ===
+=== WC Quick Order Access ===
 Contributors: shirgans
 Tags: WooCommerce, WordPress, admin dashboard, quick order edit
 Requires at least: 5.6
@@ -8,7 +8,7 @@ License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Plugin URI: https://github.com/shirgans/wc-quick-order-edit/
 
-Quick Order/Subscription Edit is a simple widget for the WordPress admin dashboard, with an input field that gets a numeric value, and a button with "Go". It redirects to the order or subscription edit page in WooCommerce.
+WC Quick Order Access is a simple widget for the WordPress admin dashboard, with an input field that gets a numeric value, and a button with "Go". It redirects to the order, subscription, post or page edit page in WooCommerce and WordPress in general.
 
 == Description ==
 This plugin adds a horizontal widget to the top admin bar, with an input field for entering the order or subscription ID, and a "Go" button for quick access to the edit page. It is especially useful for store owners who need to quickly access and edit orders or subscriptions.
