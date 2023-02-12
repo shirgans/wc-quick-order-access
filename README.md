@@ -1,4 +1,4 @@
-# Quick Order/Subscription Edit Widget for WordPress
+# Quick Order Access Widget for WooCommerce
 
 A simple plugin for WordPress that adds a widget to the top admin bar for quick access to order/subscription editing.
 
