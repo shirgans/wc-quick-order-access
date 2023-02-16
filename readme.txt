@@ -2,7 +2,7 @@
 Contributors: shirgans
 Tags: WooCommerce, WordPress, admin dashboard, quick order edit
 Requires at least: 5.6
-Tested up to: 6.0
+Tested up to: 6.1
 Stable tag: 1.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
